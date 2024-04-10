@@ -142,8 +142,6 @@ To manage the SurveyPal Docker container, use the following commands:
   docker logs surveypal
   ```
 
-````
-
 - Restart container:
 
   ```bash
@@ -207,4 +205,3 @@ To manage the internationalization (i18n) locales, follow these steps:
 #### Update locales
 
 1. Update the existing locale files in the `data/locales` directory with the updated translations.
-````
