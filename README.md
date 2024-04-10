@@ -43,7 +43,7 @@ BETA: [SurveyPal](https://t.me/surveypal_bot)
 
 ## Bot structure
 
-````bash
+```bash
 ├───bin                 # bash scripts for docker
 ├───bot
 │   ├───filters         # aiogram filters
@@ -62,6 +62,7 @@ BETA: [SurveyPal](https://t.me/surveypal_bot)
 ├───models              # database models
 ├───services            # database services
 └───utils               # utilities
+```
 
 ## Getting started
 
@@ -71,15 +72,15 @@ To get started with SurveyPal, follow these steps:
 
 1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/iamdLite/SurveyPal.git
-    ```
+   ```bash
+   git clone https://github.com/iamdLite/SurveyPal.git
+   ```
 
 2. Install the required dependencies:
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ### Configure environment variables
 
@@ -89,11 +90,11 @@ To get started with SurveyPal, follow these steps:
 
 2. Add the following environment variables to the `.env` file:
 
-    ```plaintext
-    BOT_TOKEN=your-bot-token
-    ```
+   ```plaintext
+   BOT_TOKEN=your-bot-token
+   ```
 
-    Replace `your-bot-token` with the token of your Telegram bot.
+   Replace `your-bot-token` with the token of your Telegram bot.
 
 #### Database
 
@@ -103,15 +104,15 @@ To get started with SurveyPal, follow these steps:
 
 3. Add the following environment variables to the `.env` file:
 
-    ```plaintext
-    DB_HOST=your-db-host
-    DB_PORT=your-db-port
-    DB_NAME=your-db-name
-    DB_USER=your-db-username
-    DB_PASSWORD=your-db-password
-    ```
+   ```plaintext
+   DB_HOST=your-db-host
+   DB_PORT=your-db-port
+   DB_NAME=your-db-name
+   DB_USER=your-db-username
+   DB_PASSWORD=your-db-password
+   ```
 
-    Replace `your-db-host`, `your-db-port`, `your-db-name`, `your-db-username`, and `your-db-password` with the appropriate values for your database.
+   Replace `your-db-host`, `your-db-port`, `your-db-name`, `your-db-username`, and `your-db-password` with the appropriate values for your database.
 
 ### Docker
 
@@ -121,15 +122,15 @@ To run SurveyPal using Docker, follow these steps:
 
 1. Build the Docker image:
 
-    ```bash
-    docker build -t surveypal .
-    ```
+   ```bash
+   docker build -t surveypal .
+   ```
 
 2. Run the Docker container:
 
-    ```bash
-    docker run -d --name surveypal surveypal
-    ```
+   ```bash
+   docker run -d --name surveypal surveypal
+   ```
 
 #### Manage bot container
 
@@ -139,6 +140,8 @@ To manage the SurveyPal Docker container, use the following commands:
 
   ```bash
   docker logs surveypal
+  ```
+
 ````
 
 - Restart container:
@@ -204,3 +207,4 @@ To manage the internationalization (i18n) locales, follow these steps:
 #### Update locales
 
 1. Update the existing locale files in the `data/locales` directory with the updated translations.
+````
