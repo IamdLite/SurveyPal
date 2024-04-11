@@ -1,0 +1,43 @@
+[2024-04-11T21:53:14.772330+0300] [INFO] [webhook.py:20] Bot startup
+[2024-04-11T21:53:14.772330+0300] [INFO] [webhook.py:21] WEBHOOK_URL='NoneNone'
+[2024-04-11T21:56:07.284168+0300] [INFO] [webhook.py:20] Bot startup
+[2024-04-11T21:56:07.284168+0300] [INFO] [webhook.py:21] WEBHOOK_URL='NoneNone'
+[2024-04-11T21:57:33.366246+0300] [INFO] [webhook.py:20] Bot startup
+[2024-04-11T21:57:33.370050+0300] [INFO] [webhook.py:21] WEBHOOK_URL='NoneNone'
+[2024-04-11T21:59:06.094538+0300] [INFO] [webhook.py:20] Bot startup
+[2024-04-11T21:59:06.094538+0300] [INFO] [webhook.py:21] WEBHOOK_URL='NoneNone'
+[2024-04-11T22:01:04.171280+0300] [INFO] [webhook.py:20] Bot startup
+[2024-04-11T22:01:04.171280+0300] [INFO] [webhook.py:21] NoneNone
+[2024-04-11T22:02:02.263635+0300] [INFO] [webhook.py:20] Bot startup
+[2024-04-11T22:02:02.265754+0300] [INFO] [webhook.py:21] (None, None, 'NoneNone')
+[2024-04-11T22:04:34.968955+0300] [INFO] [webhook.py:20] Bot startup
+[2024-04-11T22:04:34.972232+0300] [INFO] [webhook.py:21] ('https://4b84-104-223-88-9.ngrok-free.app', '/6951800087:AAExzHZnvj4CvpublY4lbfgl0VNHy_5WaBg', 'https://4b84-104-223-88-9.ngrok-free.app/6951800087:AAExzHZnvj4CvpublY4lbfgl0VNHy_5WaBg')
+[2024-04-11T22:06:56.326855+0300] [INFO] [webhook.py:20] Bot startup
+[2024-04-11T22:06:56.326855+0300] [INFO] [webhook.py:21] ('https://4b84-104-223-88-9.ngrok-free.app', '/6951800087:AAExzHZnvj4CvpublY4lbfgl0VNHy_5WaBg', 'https://4b84-104-223-88-9.ngrok-free.app/6951800087:AAExzHZnvj4CvpublY4lbfgl0VNHy_5WaBg')
+[2024-04-11T22:08:40.794818+0300] [INFO] [webhook.py:20] Bot startup
+[2024-04-11T22:08:40.794818+0300] [INFO] [webhook.py:21] ('https://4b84-104-223-88-9.ngrok-free.app', '/6951800087:AAExzHZnvj4CvpublY4lbfgl0VNHy_5WaBg', 'https://4b84-104-223-88-9.ngrok-free.app/6951800087:AAExzHZnvj4CvpublY4lbfgl0VNHy_5WaBg')
+[2024-04-11T22:10:29.871967+0300] [INFO] [webhook.py:20] Bot startup
+[2024-04-11T22:10:29.876479+0300] [INFO] [webhook.py:21] ('https://4b84-104-223-88-9.ngrok-free.app', '/6951800087:AAExzHZnvj4CvpublY4lbfgl0VNHy_5WaBg', 'https://4b84-104-223-88-9.ngrok-free.app/6951800087:AAExzHZnvj4CvpublY4lbfgl0VNHy_5WaBg')
+[2024-04-11T22:17:03.029500+0300] [INFO] [webhook.py:20] Bot startup
+[2024-04-11T22:17:03.029500+0300] [INFO] [webhook.py:21] ('https://4b84-104-223-88-9.ngrok-free.app', '/6951800087:AAExzHZnvj4CvpublY4lbfgl0VNHy_5WaBg', 'https://4b84-104-223-88-9.ngrok-free.app/6951800087:AAExzHZnvj4CvpublY4lbfgl0VNHy_5WaBg')
+[2024-04-11T22:35:08.588400+0300] [INFO] [webhook.py:20] Bot startup
+[2024-04-11T22:35:08.591399+0300] [INFO] [webhook.py:21] ('https://4b84-104-223-88-9.ngrok-free.app', '/6951800087:AAExzHZnvj4CvpublY4lbfgl0VNHy_5WaBg', 'https://4b84-104-223-88-9.ngrok-free.app/6951800087:AAExzHZnvj4CvpublY4lbfgl0VNHy_5WaBg')
+[2024-04-11T22:36:55.438496+0300] [INFO] [webhook.py:20] Bot startup
+[2024-04-11T22:36:55.440455+0300] [INFO] [webhook.py:21] ('https://4b84-104-223-88-9.ngrok-free.app', '/6951800087:AAExzHZnvj4CvpublY4lbfgl0VNHy_5WaBg', 'https://4b84-104-223-88-9.ngrok-free.app/6951800087:AAExzHZnvj4CvpublY4lbfgl0VNHy_5WaBg')
+[2024-04-11T22:37:48.073059+0300] [INFO] [webhook.py:20] Bot startup
+[2024-04-11T22:37:48.077018+0300] [INFO] [webhook.py:21] ('https://4b84-104-223-88-9.ngrok-free.app', '/6951800087:AAExzHZnvj4CvpublY4lbfgl0VNHy_5WaBg', 'https://4b84-104-223-88-9.ngrok-free.app/6951800087:AAExzHZnvj4CvpublY4lbfgl0VNHy_5WaBg')
+[2024-04-11T22:42:19.557125+0300] [INFO] [webhook.py:20] Bot startup
+[2024-04-11T22:42:19.562124+0300] [INFO] [webhook.py:21] ('https://4b84-104-223-88-9.ngrok-free.app', '/6951800087:AAExzHZnvj4CvpublY4lbfgl0VNHy_5WaBg', 'https://4b84-104-223-88-9.ngrok-free.app/6951800087:AAExzHZnvj4CvpublY4lbfgl0VNHy_5WaBg')
+[2024-04-11T22:44:51.664186+0300] [INFO] [webhook.py:20] Bot startup
+[2024-04-11T22:44:51.669910+0300] [INFO] [webhook.py:21] ('https://4b84-104-223-88-9.ngrok-free.app', '/6951800087:AAExzHZnvj4CvpublY4lbfgl0VNHy_5WaBg', 'https://4b84-104-223-88-9.ngrok-free.app/6951800087:AAExzHZnvj4CvpublY4lbfgl0VNHy_5WaBg')
+[2024-04-11T22:45:35.408528+0300] [INFO] [webhook.py:20] Bot startup
+[2024-04-11T22:45:35.410536+0300] [INFO] [webhook.py:21] ('https://4b84-104-223-88-9.ngrok-free.app', '/6951800087:AAExzHZnvj4CvpublY4lbfgl0VNHy_5WaBg', 'https://4b84-104-223-88-9.ngrok-free.app/6951800087:AAExzHZnvj4CvpublY4lbfgl0VNHy_5WaBg')
+[2024-04-11T22:45:37.136162+0300] [INFO] [webhook.py:32] Bot shutdown down..
+[2024-04-11T22:46:12.702801+0300] [INFO] [webhook.py:20] Bot startup
+[2024-04-11T22:46:12.705807+0300] [INFO] [webhook.py:21] ('https://4b84-104-223-88-9.ngrok-free.app', '/6951800087:AAExzHZnvj4CvpublY4lbfgl0VNHy_5WaBg', 'https://4b84-104-223-88-9.ngrok-free.app/6951800087:AAExzHZnvj4CvpublY4lbfgl0VNHy_5WaBg')
+[2024-04-11T22:46:14.192430+0300] [INFO] [webhook.py:32] Bot shutdown down..
+[2024-04-11T22:46:14.469061+0300] [WARNING] [webhook.py:39] Bye!
+[2024-04-11T22:46:57.057049+0300] [INFO] [webhook.py:20] Bot startup
+[2024-04-11T22:46:57.059625+0300] [INFO] [webhook.py:21] ('https://4b84-104-223-88-9.ngrok-free.app', '/6951800087:AAExzHZnvj4CvpublY4lbfgl0VNHy_5WaBg', 'https://4b84-104-223-88-9.ngrok-free.app/6951800087:AAExzHZnvj4CvpublY4lbfgl0VNHy_5WaBg')
+[2024-04-11T22:55:53.397701+0300] [INFO] [webhook.py:32] Bot shutdown down..
+[2024-04-11T22:55:54.583866+0300] [WARNING] [webhook.py:39] Bye!
